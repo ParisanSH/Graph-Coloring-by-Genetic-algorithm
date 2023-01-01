@@ -6,5 +6,7 @@ Given a number of vertices, which form a connected graph, the objective is to co
 Given a graph G and the number of colors k output a colored graph. In this mini project, GA has been applied with the following properties to this problem:
 
 Recombination -> Single-point
+
 Mutation -> set new random color for each adjacent vertex with the same color
+
 Population -> size 100
